@@ -1,6 +1,3 @@
-Tilak 8985898556 babutilak234@gmail.com 
 
-Mahesh 9494759595 babu.mahesh899@gmail.com 
-
-Raviteja 8801720204 raviteja.p@apssdc.in 
-
+Tilak,9988776655,babu.tilak234@gmail.com
+Mahesh,9988776655,babu.tilak234@gmail.com

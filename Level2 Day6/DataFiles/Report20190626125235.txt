@@ -1,0 +1,11 @@
+Student Report - Dated on 2019-06-26 12:52:35.043710
+
+
+Total Students:5000
+Highest Mark:100
+Lowest Mark:0
+Average Mark:50
+First Class:1048
+Second Class:664
+Third Class:961
+Failed Students:1504
